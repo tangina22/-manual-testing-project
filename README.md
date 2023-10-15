@@ -10,7 +10,7 @@
 ##### ![1](https://github.com/tangina22/-manual-testing-project/blob/master/TOP%20UP%20KORO%20BD.png)
 
 ### 3.Test Reports: The test reports section provides a breakdown of the testing process, including the executed test cases, actual outcomes, deviations from expected behavior, and any observations made during testing.
-
+##### ![1](https://github.com/tangina22/-manual-testing-project/blob/master/report.PNG)
 
 ### 4.Bug Reports: In this section, you will find detailed descriptions of any identified issues during the testing process. Each bug report includes steps to reproduce, screenshots or logs showcasing the issue.
 
