@@ -14,7 +14,7 @@
 ##### ![1](https://github.com/tangina22/-manual-testing-project/blob/master/report.PNG)
 
 ### 4.Bug Reports: In this section, you will find detailed descriptions of any identified issues during the testing process. Each bug report includes steps to reproduce, screenshots or logs showcasing the issue.
-
+##### ![1](https://github.com/tangina22/-manual-testing-project/blob/master/bug%20report.PNG)
 
 ### 5.Test Metrics: Explore the metrics and measurements collected during the manual testing phase. These metrics encompass key performance indicators, test execution times, bug resolution rates, and more.
 
