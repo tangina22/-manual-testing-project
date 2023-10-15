@@ -18,4 +18,4 @@
 
 ### 5.Test Metrics: Explore the metrics and measurements collected during the manual testing phase. These metrics encompass key performance indicators, test execution times, bug resolution rates, and more.
 
-
+##### ![1](https://github.com/tangina22/-manual-testing-project/blob/master/test%20matrics.PNG)
